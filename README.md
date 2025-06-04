@@ -56,11 +56,6 @@ Each day, users write or speak journal entries. The AI analyzes the text for emo
 - May misread sarcasm or cultural nuance
 - Self-reporting introduces bias and incomplete data
 
-**Ethical considerations:**
-- Privacy and user data protection
-- Avoiding toxic positivity
-- Supporting empathy, not replacing it
-
 ## What next?
 
 Future development ideas:
