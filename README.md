@@ -40,7 +40,7 @@ Each day, users write or speak journal entries. The AI analyzes the text for emo
 - User-generated text data (journal entries)
 - Optional future inputs: audio, emojis
 
-**AI Techniques Used**
+**Potential AI Techniques**
 1. Natural Language Processing (NLP) — structuring and tagging text
 2. Sentiment & Emotion Detection (e.g., using BERT/DistilRoBERTa)
 3. Topic Modeling (LDA) — surfacing common gratitude themes
